@@ -28,5 +28,4 @@ A responsive personal portfolio website built using HTML and CSS to showcase my 
 
 ## 📸 Screenshots
 
-> https://github.com/ROCKY0012-bits/rocky-portfolio/blob/main/Screenshot%202025-07-24%20182141.png
-
+![Website Preview](https://github.com/ROCKY0012-bits/rocky-portfolio/blob/main/Screenshot%202025-07-24%20182141.png)
