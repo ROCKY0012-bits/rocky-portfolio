@@ -9,7 +9,7 @@ A responsive personal portfolio website built using HTML and CSS to showcase my 
 
 👉 [View Live Site on Netlify](https://rocky-portfolio120303.netlify.app/)
 
-👉 [GitHub Repository]([https://github.com/ROCKY0012-bits/art-showcase](https://github.com/ROCKY0012-bits/art-showcase))
+👉 [GitHub Repository](https://github.com/ROCKY0012-bits/rocky-portfolio)
 
 ## 📁 Features
 
